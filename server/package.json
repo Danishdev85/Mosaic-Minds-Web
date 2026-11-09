@@ -1,0 +1,1 @@
+{"author":"","dependencies":{"axios":"^1.19.0","bcryptjs":"^3.0.3","cors":"^2.8.6","dotenv":"^17.4.2","express":"^5.2.1","jsonwebtoken":"^9.0.3","mysql2":"^3.23.2"},"description":"","keywords":[],"license":"ISC","main":"index.js","name":"server","scripts":{"dev":"node --watch server.js","start":"node server.js"},"version":"1.0.0"}
